@@ -59,12 +59,12 @@ Exploratory D
 ### Requirements
 
 * Jupyter Notebook
-*Pandas
-*Numpy
-*Requests
-*Tweepy
-*json
-*Matplotlib
+* Pandas
+* Numpy
+* Requests
+* Tweepy
+* json
+* Matplotlib
 
 
 ```python
