@@ -10,11 +10,11 @@ For more on dog breeds, please check DogTime. Also, all breed info were collecte
 
 ## Table of Content
 * Introduction
-*Gather Data
-*Assess the Data
-*Clean the Data
-*Analysis
-*Conclusions
+* Gather Data
+* Assess the Data
+* Clean the Data
+* Analysis
+* Conclusions
 
 
 ### Data Gathering:
